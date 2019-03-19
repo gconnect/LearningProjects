@@ -1,0 +1,1 @@
+include ':app', ':sharedpreferences', ':recyclerviewjsonexample', ':retrofittutorial', ':bottomdialogfragmentexample', ':modalbottomsheetexample', ':recyclerviewwithcheckbox', ':checkboxrecyclerviewexample', ':customspinner', ':imageuploadusingretrofit', ':imageuploadwithvolley', ':jsonparsingexample', ':googlemapexample'
